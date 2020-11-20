@@ -1,0 +1,14 @@
+{
+  "name": "node-movie",
+  "version": "1.0.0",
+  "main": "server/index.js",
+  "repository": "https://github.com/trumangift/node-movie.git",
+  "author": "Mr.liu <leo.liu@asiahr.com>",
+  "license": "MIT",
+  "script": {
+      "start": "node server/index.js"
+  },
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
